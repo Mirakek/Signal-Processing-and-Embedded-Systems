@@ -1,2 +1,2 @@
 # SignalProcessing
-A project on DSP, analog filtering, and Arduino/Python.
+A project on low-pass DSP, analog filtering, and Arduino/Python.
