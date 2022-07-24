@@ -1,2 +1,2 @@
-# SignalProcessing
-A project on low-pass DSP, analog filtering, and Arduino/Python.
+# Signal Processing and Embedded Systems
+A project based around signal processing from a comprehensive perspective, from analog to digital to practical applications with Arduino to niche implementation in common embedded systems.
